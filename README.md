@@ -4,9 +4,6 @@
 
 ## Description
 This is an app that allows users to like post and comment on other people posts
-
-## Project live site
-  This is the live .[ https://michenirepo.herokuapp.com/]
  
 ## Features
 * User can log in to application and view other peoples posts.
